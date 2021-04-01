@@ -4,7 +4,7 @@ import Banner from "../components/Banner";
 import { Link } from "react-router-dom";
 import RoomsContainer from "../components/RoomsContainer";
 
-export default function Rooms() {
+export default function Packages() {
   return (
     <>
       <Hero hero="roomsHero">

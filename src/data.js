@@ -90,13 +90,13 @@ export default [
       description:
         "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds",
+        "Day 01 - Arrival in Kathmandu and trip preparation",
+        "Day 02 - Fly to Pokhara trek to Ghandruk - 5-6 hrs",
+        "Day 03 - Ghandruk to Chhomrong - 5-6 hrs",
+        "Day 04 - Chhomrong to Bamboo - 4-5 hrs",
+        "Day 05 - Bamboo to Deurali - 3-4 hrs",
+        "Day 06 - Deurali to Annapurna Base Camp via Machhapuchhre Base Camp - 5-6 hrs",
+        "Day 07 - Annapurna Base Camp to Bamboo - 7-8 hrs",
       ],
       images: [
         {
